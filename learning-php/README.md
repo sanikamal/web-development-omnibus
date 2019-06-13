@@ -15,3 +15,4 @@ PHP is a server side script that is interpreted on the server while JavaScript i
 
 ## Contents
 - [Hello world program](hello.php)
+- [Variable in PHP](variables.php)
