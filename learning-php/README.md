@@ -16,5 +16,8 @@ Server side scripts are interpreted on the server while client side scripts are 
 PHP is a server side script that is interpreted on the server while JavaScript is an example of a client side script that is interpreted by the client browser. Both PHP and JavaScript can be embedded into HTML pages. 
 
 ## Contents
-- [Hello world program](hello.php)
-- [Variable in PHP](variables.php)
+- Introduction to PHP
+  - [Hello world program](hello.php)
+  - [Variable in PHP](variables.php)
+  - [If,If-else, If-else-if and Switch Statement](decision.php)
+  - [While, Do while, For and Foreach Loop](loops.php)
