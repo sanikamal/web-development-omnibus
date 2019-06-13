@@ -1,5 +1,5 @@
 # Learning PHP
-****************************************************************************
+=====================================================================================
 ## What is PHP?
 PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. 
 PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. 
@@ -21,3 +21,6 @@ PHP is a server side script that is interpreted on the server while JavaScript i
   - [Variable in PHP](variables.php)
   - [If,If-else, If-else-if and Switch Statement](decision.php)
   - [While, Do while, For and Foreach Loop](loops.php)
+- Object Oriented Programming
+- Arrays and Global Variable
+- MySQL Database Insight
