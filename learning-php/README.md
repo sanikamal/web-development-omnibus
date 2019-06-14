@@ -20,6 +20,7 @@ PHP is a server side script that is interpreted on the server while JavaScript i
   - [Hello world program](hello.php)
   - [PHP Syntax](php-syntax.php)
   - [Variable in PHP](variables.php)
+  - [PHP Variable Scope](variable-scope.php)
   - [If,If-else, If-else-if and Switch Statement](decision.php)
   - [While, Do while, For and Foreach Loop](loops.php)
 - Object Oriented Programming
