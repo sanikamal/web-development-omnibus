@@ -14,11 +14,11 @@
     // $mail->SMTPSecure = 'tls';
     // $mail->Port       = 587;
 
-    $mail->Username = "sanikamal223@gmail.com";
-    $mail->Password = "sani1234sani";
+    $mail->Username = "example@gmail.com";
+    $mail->Password = "password";
 
-    $mail->setFrom("sanikamal223@gmail.com","Sani Kamal");
-    $mail->addReplyTo("sanikamal223@gmail.com","Sani Kamal");
+    $mail->setFrom("example@gmail.com","Sani Kamal");
+    $mail->addReplyTo("example@gmail.com","Sani Kamal");
     // Add cc or bcc 
     // $mail->addCC('cc@example.com');
     // $mail->addBCC('bcc@example.com');
