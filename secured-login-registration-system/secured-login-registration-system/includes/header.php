@@ -32,9 +32,9 @@
     $mail->Port = "465";
     $mail->SMTPSecure = "ssl";
 
-    $mail->Username = "sanikamal223@gmail.com";
-    $mail->Password = "sani1234sani";
+    $mail->Username = "example@gmail.com";
+    $mail->Password = "password";
 
-    $mail->setFrom("sanikamal223@gmail.com","Sani Kamal");
-    $mail->addReplyTo("sanikamal223@gmail.com","Sani Kamal");
+    $mail->setFrom("example@gmail.com","Sani Kamal");
+    $mail->addReplyTo("example@gmail.com","Sani Kamal");
     $mail->isHTML(true);
