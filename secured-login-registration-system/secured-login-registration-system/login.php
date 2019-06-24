@@ -33,7 +33,7 @@
                             $mail->Subject = "Verify your email";
                             $mail->Body = "
                                         <h2>Follow the link to verify</h2>
-                                        <a href='localhost/registration/activation.php?eid={$email}&token={$token}&&exd={$expire_date}'>Click here to verify</a>
+                                        <a href='localhost/secured-login-registration-system/activation.php?eid={$email}&token={$token}&&exd={$expire_date}'>Click here to verify</a>
                                         <p>This link is valid for 20 minutes</p>
                                         ";
         
