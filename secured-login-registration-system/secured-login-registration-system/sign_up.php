@@ -7,8 +7,8 @@
         <?php
 
             // //google recaptcha
-            $public_key="6LfxAqkUAAAAAA0U84nwovER7As8yNsW-dJ7qZOZ";
-            $private_key="6LfxAqkUAAAAAIDnDwfPBrDrkcxDWiHuKQsUnB0m";
+            $public_key="PUBLIC KEY";
+            $private_key="PRIVATE KEY";
             $url = "https://www.google.com/recaptcha/api/siteverify";
 
                 if(isset($_POST['sign-up'])) {
