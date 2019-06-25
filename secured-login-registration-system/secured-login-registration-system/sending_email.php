@@ -26,8 +26,7 @@
     $mail->isHTML(true);
 
     // recipient
-    // "inquiry.qinnovation" <inquiry.qinnovation@gmail.com>
-    $mail->addAddress("inquiry.qinnovation@gmail.com");
+    $mail->addAddress("recipient@gmail.com");
 
     $mail->Subject = "Sending from localhost";
     $mail->Body = "
